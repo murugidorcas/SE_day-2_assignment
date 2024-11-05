@@ -1,6 +1,6 @@
 # SE_day-2_assignment
 
-Fundamental Concepts of Version Control and GitHub's Popularity
+
 
 Version control is a system that helps developers track changes to code over time, facilitating collaboration and project management. It enables multiple people to work on the same project without overwriting each other's work, and it allows the team to revert to previous versions if needed. The fundamental concepts of version control include:
 
@@ -137,9 +137,11 @@ Typical steps for a PR:
 
 PRs help ensure that changes are reviewed before they are incorporated into the main project, ensuring quality control and fostering collaboration.
 
-* Forking vs. Cloning
 
-**Forking** creates a personal copy of someone else's repository under your GitHub account, allowing you to make changes without affecting the original project. **Cloning**, on the other hand, copies the repository to your local machine.
+*Forking vs. Cloning
+
+Forking creates a personal copy of someone else's repository under your GitHub account, allowing you to make changes without affecting the original project. 
+Cloning, on the other hand, copies the repository to your local machine.
 
 - Forking is useful when contributing to an open-source project, as it allows you to propose changes without needing direct access to the original repository.
 - Cloning is used to get a local copy of a repository for personal work or collaboration.
